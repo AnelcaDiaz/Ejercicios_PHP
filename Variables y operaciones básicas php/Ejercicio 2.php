@@ -8,8 +8,8 @@ $num2 = readline();
 $resta = $num1 - $num2;
 $multiplicacion = $num1 * $num2;
 
-echo "La resta es: " . $resta . PHP_EOL;
-echo "La multiplicación es: " . $multiplicacion . PHP_EOL;
+echo "La resta es: " . $resta . "<br>";
+echo "La multiplicación es: " . $multiplicacion . "<br>";
 
 if ($num2 != 0) {
     $division = $num1 / $num2;

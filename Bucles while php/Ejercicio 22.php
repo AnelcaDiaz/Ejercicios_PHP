@@ -2,7 +2,7 @@
 $i = 1;
 
 while ($i <= 20) {
-    echo $i . PHP_EOL;
+    echo $i . "\n";
     $i++;
 }
 ?>

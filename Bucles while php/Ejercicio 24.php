@@ -7,7 +7,7 @@ while ($contrasena != $contrasenaCorrecta) {
     $contrasena = readline();
 
     if ($contrasena != $contrasenaCorrecta) {
-        echo "Contraseña incorrecta." . PHP_EOL;
+        echo "Contraseña incorrecta." . "\n";
     }
 }
 

@@ -7,7 +7,7 @@ while ($suma <= 100) {
 
     $suma += $numero;
 
-    echo "Suma actual: " . $suma . PHP_EOL;
+    echo "Suma actual: " . $suma . "<br>";
 }
 
 echo "La suma ha superado 100.";

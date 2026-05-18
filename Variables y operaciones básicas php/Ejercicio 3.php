@@ -5,6 +5,6 @@ $num = readline();
 $cuadrado = pow($num, 2);
 $cubo = pow($num, 3);
 
-echo "El cuadrado es: " . $cuadrado . PHP_EOL;
+echo "El cuadrado es: " . $cuadrado . "\n";
 echo "El cubo es: " . $cubo;
 ?>
